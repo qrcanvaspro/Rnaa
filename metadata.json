@@ -1,0 +1,6 @@
+{
+  "name": "RNA Room Expenses",
+  "description": "Equal 3-way expense tracking and account management for Rohit, Nitish, and Arpit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
